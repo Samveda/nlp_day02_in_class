@@ -1,4 +1,4 @@
-# Neuro Linguistic Programming (NLP) Day 2 
+# Natural Language Processing (NLP) Day 2 
 
 ## At a glance
 * In Class Instruction: 4 Hours
