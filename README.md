@@ -26,7 +26,6 @@ After this session , you'll be able to -
 - Deep Tree Parsing
 - POS Tagging
 - Chunking
-- 
 
 ## Slides
 Check the Jupyter Notebook in the top right of the screen
